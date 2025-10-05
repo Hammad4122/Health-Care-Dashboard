@@ -1,4 +1,8 @@
 streamlit
 pandas
+numpy
+matplotlib
+seaborn
 altair
-git+https://github.com/victoryhb/streamlit-option-menu.git
+openpyxl
+git+https://github.com/victoryhb/streamlit-option-menu.git@master
