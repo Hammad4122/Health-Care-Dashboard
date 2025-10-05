@@ -1,0 +1,601 @@
+,treatment_id,treatment_name,avg_duration_days,success_rate
+0,T001,BrainSurg,216.0,92.0
+1,T002,Brain Surgery,7.0,87.0
+2,T003,Chemotherapy,8.0,97.0
+3,T004,Lasik,4.0,61.0
+4,T005,Chemo,110.0,93.0
+5,T006,ANGIOPLASTY,18.0,68.0
+6,T007,fracture repair,23.0,69.0
+7,T008,Brain Surgery,10.0,71.0
+8,T009,Chemotherapy,23.0,60.0
+9,T010,Brain Surgery,13.0,60.0
+10,T011,Spine Fusion,57.0,51.0
+11,T012,Normal Delivery,26.0,91.0
+12,T013,Laser Eye Correction,15.0,67.0
+13,T014,C-SECTION,137.0,52.0
+14,T015,Laser Eye Correction,23.0,52.0
+15,T016,Chemo,19.0,56.0
+16,T017,BrainSurg,29.0,89.0
+17,T018,Kidney Transplant,192.0,89.0
+18,T019,Chemo,192.0,56.0
+19,T020,Dental Filling,192.0,73.0
+20,T021,Dental Filling,17.0,62.0
+21,T022,Brain Surgery,6.0,83.0
+22,T023,Normal Delivery,18.0,98.0
+23,T024,BrainSurg,27.0,52.0
+24,T025,SPINE FUSION,28.0,90.0
+25,T026,Spine Fusion,75.0,80.0
+26,T027,Kydney Transplant,155.0,93.0
+27,T028,Angioplasty,8.0,93.0
+28,T029,LASIK,4.0,97.0
+29,T030,Kydney Transplant,205.0,97.0
+30,T031,C-Section,5.0,97.0
+31,T032,Chemo,2.0,53.0
+32,T033,angioplasty,22.0,55.0
+33,T034,Dental Filling,18.0,78.0
+34,T035,fracture repair,17.0,85.0
+35,T036,Chemo,166.0,64.0
+36,T037,Chemotherapy,20.0,55.0
+37,T038,Fracture Repair,13.0,82.0
+38,T039,C-Section,18.0,57.0
+39,T040,FRACTURE REPAIR,20.0,77.0
+40,T041,Chemotherapy,10.0,89.0
+41,T042,angioplasty,10.0,86.0
+42,T043,Dental Filling,8.0,62.0
+43,T044,fracture repair,191.0,73.0
+44,T045,fracture repair,233.0,84.0
+45,T046,Fracture Repair procedure,11.0,69.0
+46,T047,Lasik,14.0,63.0
+47,T048,angioplasty,175.0,63.0
+48,T049,Fracture Repair,17.0,63.0
+49,T050,Fracture Repair,109.0,82.0
+50,T051,ANGIOPLASTY,19.0,77.0
+51,T052,Dental Filling,19.0,97.0
+52,T053,Kydney Transplant,7.0,93.0
+53,T054,BrainSurg,8.0,70.0
+54,T055,Chemotherapy,14.0,50.0
+55,T056,Kydney Transplant,23.0,57.0
+56,T057,Dental Filling procedure,14.0,61.0
+57,T058,Fracture Repair,10.0,91.0
+58,T059,Chemo,293.0,53.0
+59,T060,angioplasty,25.0,92.0
+60,T061,Chemotherapy,34.0,60.0
+61,T062,C-Section,15.0,71.0
+62,T063,Fracture Repair,25.0,66.0
+63,T064,Spine Fusion,23.0,92.0
+64,T065,Chemotherapy,141.0,92.0
+65,T066,BRAIN SURGERY,28.0,51.0
+66,T067,LASER EYE CORRECTION,9.0,55.0
+67,T068,BrainSurg,27.0,58.0
+68,T069,Laser Eye Correction,12.0,85.0
+69,T070,Chemotherapy,179.0,85.0
+70,T071,fracture repair,179.0,85.0
+71,T072,Normal Delivery,169.0,50.0
+72,T073,Dental Filling,26.0,57.0
+73,T074,BrainSurg,20.0,74.0
+74,T075,Normal  Delivery,21.0,58.0
+75,T076,Kidney Transplant,43.0,95.0
+76,T077,Spine Fusion,27.0,75.0
+77,T078,Dental Filling,27.0,75.0
+78,T079,angioplasty,291.0,87.0
+79,T080,Lasik,28.0,87.0
+80,T081,Chemo,29.0,94.0
+81,T082,Dental Filling,10.0,50.0
+82,T083,Angioplasty,28.0,86.0
+83,T084,BRAIN SURGERY,16.0,69.0
+84,T085,BrainSurg,7.0,96.0
+85,T086,Chemotherapy,28.0,62.0
+86,T087,Brain  Surgery,28.0,79.0
+87,T088,Angioplasty,4.0,92.0
+88,T089,Spine Fusion,28.0,59.0
+89,T090,Lasik,8.0,51.0
+90,T091,Chemo procedure,16.0,90.0
+91,T092,C-Section,20.0,51.0
+92,T093,Fracture Repair,10.0,60.0
+93,T094,Spine Fusion,6.0,78.0
+94,T095,Angioplasty,14.0,96.0
+95,T096,Brain Surgery,10.0,96.0
+96,T097,Chemotherapy,264.0,59.0
+97,T098,DENTAL FILLING,264.0,51.0
+98,T099,Chemo,2.0,87.0
+99,T100,fracture repair,10.0,64.0
+100,T101,Chemo,15.0,53.0
+101,T102,C-Section,29.0,58.0
+102,T103,C-Section,17.0,63.0
+103,T104,Angioplasty,18.0,73.0
+104,T105,fracture repair procedure,14.0,53.0
+105,T106,Angioplasty,23.0,53.0
+106,T107,Brain Surgery,19.0,52.0
+107,T108,Fracture Repair,23.0,53.0
+108,T109,Brain Surgery,27.0,55.0
+109,T110,angioplasty,10.0,55.0
+110,T111,Dental Filling,69.0,62.0
+111,T112,Lasik,5.0,62.0
+112,T113,Spine Fusion,28.0,57.0
+113,T114,BrainSurg,28.0,68.0
+114,T115,Fracture Repair,23.0,68.0
+115,T116,C-Section,21.0,84.0
+116,T117,Dental Filling,28.0,56.0
+117,T118,Dental  Filling,3.0,93.0
+118,T119,LASER EYE CORRECTION,17.0,73.0
+119,T120,Kydney Transplant,119.0,78.0
+120,T121,BrainSurg,17.0,52.0
+121,T122,Kydney Transplant,5.0,81.0
+122,T123,Angioplasty,5.0,71.0
+123,T124,C-Section,26.0,82.0
+124,T125,C-Section,5.0,71.0
+125,T126,Chemotherapy,24.0,55.0
+126,T127,Dental Filling,6.0,75.0
+127,T128,fracture repair,27.0,68.0
+128,T129,C-Section,265.0,55.0
+129,T130,FRACTURE REPAIR,13.0,82.0
+130,T131,C-Section,24.0,91.0
+131,T132,BrainSurg,6.0,75.0
+132,T133,C-Section,240.0,87.0
+133,T134,Chemo,240.0,59.0
+134,T135,fracture repair,244.0,83.0
+135,T136,fracture repair,7.0,87.0
+136,T137,Dental Filling,25.0,98.0
+137,T138,Dental Filling,15.0,67.0
+138,T139,ANGIOPLASTY,283.0,66.0
+139,T140,C-Section,16.0,83.0
+140,T141,fracture repair,6.0,84.0
+141,T142,Lasik,2.0,51.0
+142,T143,Chemo,6.0,51.0
+143,T144,FRACTURE REPAIR,2.0,68.0
+144,T145,C-Section,3.0,87.0
+145,T146,KIDNEY TRANSPLANT,3.0,82.0
+146,T147,BrainSurg,19.0,82.0
+147,T148,fracture repair,225.0,82.0
+148,T149,Angioplasty,16.0,58.0
+149,T150,BrainSurg,15.0,57.0
+150,T151,Chemotherapy,25.0,65.0
+151,T152,Kidney Transplant,114.0,73.0
+152,T153,C-Section,90.0,73.0
+153,T154,Chemo,90.0,84.0
+154,T155,Kidney Transplant,12.0,70.0
+155,T156,Angioplasty,237.0,84.0
+156,T157,Angioplasty,28.0,90.0
+157,T158,Laser Eye Correction,275.0,93.0
+158,T159,Spine Fusion,222.0,94.0
+159,T160,KIDNEY TRANSPLANT,18.0,66.0
+160,T161,Fracture Repair,10.0,60.0
+161,T162,KIDNEY TRANSPLANT,4.0,83.0
+162,T163,Normal Delivery,42.0,83.0
+163,T164,ANGIOPLASTY,5.0,86.0
+164,T165,KYDNEY TRANSPLANT,2.0,97.0
+165,T166,angioplasty,26.0,71.0
+166,T167,fracture repair,10.0,66.0
+167,T168,Laser Eye Correction,3.0,72.0
+168,T169,C-Section,3.0,70.0
+169,T170,Dental Filling,27.0,68.0
+170,T171,C-Section,23.0,98.0
+171,T172,angioplasty,23.0,50.0
+172,T173,Fracture Repair,21.0,65.0
+173,T174,Angioplasty,29.0,65.0
+174,T175,Dental Filling,24.0,85.0
+175,T176,Kydney Transplant,3.0,85.0
+176,T177,Spine Fusion procedure,24.0,68.0
+177,T178,BRAINSURG,21.0,68.0
+178,T179,Angioplasty,20.0,59.0
+179,T180,angioplasty,20.0,59.0
+180,T181,Chemo,9.0,53.0
+181,T182,Lasik,90.0,95.0
+182,T183,BrainSurg,25.0,79.0
+183,T184,Dental Filling,26.0,84.0
+184,T185,Brain Surgery,3.0,75.0
+185,T186,Brain Surgery procedure,121.0,78.0
+186,T187,Fracture Repair,198.0,64.0
+187,T188,angioplasty,10.0,66.0
+188,T189,Kidney Transplant,135.0,56.0
+189,T190,C-Section,25.0,84.0
+190,T191,Fracture Repair,12.0,63.0
+191,T192,Chemo,28.0,61.0
+192,T193,Kidney Transplant,11.0,57.0
+193,T194,Brain Surgery,17.0,97.0
+194,T195,Kydney Transplant,26.0,65.0
+195,T196,Lasik,275.0,66.0
+196,T197,Brain Surgery,9.0,55.0
+197,T198,fracture repair,190.0,97.0
+198,T199,Chemotherapy,26.0,83.0
+199,T200,fracture  repair,26.0,57.0
+200,T201,Chemo procedure,26.0,83.0
+201,T202,Spine  Fusion,6.0,77.0
+202,T203,Brain Surgery,30.0,78.0
+203,T204,Dental Filling,22.0,62.0
+204,T205,Spine Fusion,4.0,87.0
+205,T206,Kydney Transplant,9.0,89.0
+206,T207,fracture repair,5.0,89.0
+207,T208,Normal Delivery,5.0,71.0
+208,T209,Normal Delivery,119.0,71.0
+209,T210,Chemotherapy,20.0,90.0
+210,T211,Fracture Repair procedure,28.0,67.0
+211,T212,Dental Filling,99.0,62.0
+212,T213,Kydney Transplant,14.0,64.0
+213,T214,C-Section,8.0,89.0
+214,T215,Spine Fusion,15.0,64.0
+215,T216,Dental Filling,28.0,91.0
+216,T217,Kydney Transplant,274.0,60.0
+217,T218,Normal Delivery,274.0,95.0
+218,T219,fracture repair,22.0,86.0
+219,T220,Kidney Transplant,108.0,64.0
+220,T221,Kidney Transplant,28.0,66.0
+221,T222,Chemo,11.0,97.0
+222,T223,Laser Eye Correction,13.0,71.0
+223,T224,BrainSurg,8.0,71.0
+224,T225,Fracture Repair,6.0,71.0
+225,T226,Chemo,11.0,68.0
+226,T227,Laser Eye Correction,11.0,66.0
+227,T228,Chemotherapy,11.0,69.0
+228,T229,Brain Surgery,6.0,69.0
+229,T230,Fracture Repair,3.0,69.0
+230,T231,Angioplasty,10.0,74.0
+231,T232,Kidney Transplant,23.0,73.0
+232,T233,C-Section,65.0,80.0
+233,T234,Kidney Transplant,292.0,86.0
+234,T235,Laser Eye Correction,17.0,61.0
+235,T236,BrainSurg,3.0,91.0
+236,T237,angioplasty,8.0,79.0
+237,T238,Kydney Transplant,15.0,82.0
+238,T239,Fracture Repair,9.0,82.0
+239,T240,Laser Eye Correction,238.0,89.0
+240,T241,Angioplasty,11.0,50.0
+241,T242,fracture repair,4.0,97.0
+242,T243,FRACTURE REPAIR,13.0,51.0
+243,T244,Kidney Transplant,217.0,68.0
+244,T245,Kidney Transplant,11.0,72.0
+245,T246,Chemotherapy,15.0,72.0
+246,T247,Kidney Transplant,22.0,57.0
+247,T248,Fracture Repair,59.0,88.0
+248,T249,Normal Delivery,9.0,74.0
+249,T250,C-Section,12.0,51.0
+250,T251,Normal Delivery,4.0,83.0
+251,T252,Kydney Transplant,26.0,83.0
+252,T253,fracture repair,15.0,58.0
+253,T254,Angioplasty procedure,15.0,51.0
+254,T255,Dental Filling,276.0,94.0
+255,T256,angioplasty,24.0,59.0
+256,T257,C-Section,2.0,64.0
+257,T258,Chemotherapy,7.0,56.0
+258,T259,Brain Surgery,22.0,96.0
+259,T260,Lasik,23.0,66.0
+260,T261,ANGIOPLASTY,23.0,50.0
+261,T262,angioplasty,24.0,74.0
+262,T263,Brain Surgery,90.0,55.0
+263,T264,BrainSurg,92.0,78.0
+264,T265,Normal Delivery,9.0,98.0
+265,T266,Normal Delivery,22.0,52.0
+266,T267,Chemo,90.0,86.0
+267,T268,Spine Fusion,24.0,76.0
+268,T269,Dental Filling,46.0,84.0
+269,T270,Normal Delivery,21.0,91.0
+270,T271,Spine Fusion,10.0,61.0
+271,T272,C-Section,3.0,61.0
+272,T273,Lasik,29.0,81.0
+273,T274,Spine Fusion,29.0,84.0
+274,T275,Chemotherapy,8.0,90.0
+275,T276,Kidney Transplant,7.0,78.0
+276,T277,CHEMOTHERAPY,7.0,74.0
+277,T278,Chemotherapy,15.0,81.0
+278,T279,fracture repair,25.0,81.0
+279,T280,Dental Filling,14.0,73.0
+280,T281,angioplasty,27.0,52.0
+281,T282,Spine Fusion,14.0,90.0
+282,T283,Chemotherapy,24.0,65.0
+283,T284,Chemo,4.0,92.0
+284,T285,Kydney Transplant,20.0,64.0
+285,T286,Laser Eye Correction,13.0,64.0
+286,T287,DENTAL FILLING,192.0,89.0
+287,T288,Chemo,29.0,71.0
+288,T289,Brain Surgery,69.0,92.0
+289,T290,Fracture Repair,25.0,92.0
+290,T291,Kydney Transplant,10.0,76.0
+291,T292,angioplasty,146.0,76.0
+292,T293,Chemotherapy,2.0,63.0
+293,T294,Brain Surgery,24.0,73.0
+294,T295,Brain Surgery,160.0,66.0
+295,T296,Kidney Transplant,5.0,97.0
+296,T297,Fracture Repair,11.0,84.0
+297,T298,Normal Delivery,28.0,73.0
+298,T299,Angioplasty,8.0,96.0
+299,T300,Angioplasty,28.0,72.0
+300,T301,Spine Fusion,7.0,87.0
+301,T302,fracture repair,17.0,88.0
+302,T303,Kydney Transplant,17.0,69.0
+303,T304,angioplasty,107.0,95.0
+304,T305,Brain Surgery,15.0,73.0
+305,T306,Spine Fusion,15.0,83.0
+306,T307,Spine Fusion,18.0,83.0
+307,T308,Spine Fusion,5.0,83.0
+308,T309,angioplasty,13.0,90.0
+309,T310,Laser  Eye  Correction,5.0,89.0
+310,T311,Kidney Transplant,21.0,77.0
+311,T312,fracture repair,109.0,67.0
+312,T313,BrainSurg,15.0,67.0
+313,T314,BRAINSURG,26.0,68.0
+314,T315,Kydney Transplant,20.0,89.0
+315,T316,Brain Surgery procedure,22.0,54.0
+316,T317,Laser Eye Correction,21.0,77.0
+317,T318,Kidney Transplant,19.0,74.0
+318,T319,BRAINSURG,12.0,69.0
+319,T320,Kydney Transplant,258.0,59.0
+320,T321,Lasik,4.0,78.0
+321,T322,Dental Filling,9.0,89.0
+322,T323,Normal Delivery,9.0,79.0
+323,T324,angioplasty,9.0,82.0
+324,T325,Normal Delivery,239.0,67.0
+325,T326,angioplasty,15.0,74.0
+326,T327,Angioplasty,6.0,90.0
+327,T328,Chemotherapy,6.0,71.0
+328,T329,Brain  Surgery,27.0,51.0
+329,T330,Laser Eye Correction,20.0,84.0
+330,T331,Fracture Repair,26.0,94.0
+331,T332,Lasik,15.0,64.0
+332,T333,Spine Fusion,81.0,59.0
+333,T334,C-Section,29.0,84.0
+334,T335,C-Section procedure,206.0,95.0
+335,T336,Normal Delivery,22.0,81.0
+336,T337,Chemotherapy,22.0,81.0
+337,T338,BrainSurg,22.0,81.0
+338,T339,BrainSurg,2.0,97.0
+339,T340,Dental Filling,25.0,50.0
+340,T341,Kydney  Transplant,178.0,79.0
+341,T342,Lasik,17.0,98.0
+342,T343,Kidney Transplant,14.0,96.0
+343,T344,Kidney Transplant,14.0,96.0
+344,T345,Dental Filling,12.0,64.0
+345,T346,angioplasty,24.0,82.0
+346,T347,FRACTURE REPAIR,28.0,65.0
+347,T348,Spine Fusion,28.0,53.0
+348,T349,Normal Delivery,29.0,77.0
+349,T350,Kidney Transplant,27.0,77.0
+350,T351,C-Section,239.0,82.0
+351,T352,fracture repair,9.0,66.0
+352,T353,Normal Delivery,15.0,66.0
+353,T354,Brain Surgery,298.0,87.0
+354,T355,Normal Delivery,9.0,88.0
+355,T356,BrainSurg,3.0,53.0
+356,T357,Dental Filling,23.0,74.0
+357,T358,C-SECTION,23.0,62.0
+358,T359,Normal Delivery,17.0,62.0
+359,T360,Dental Filling,13.0,85.0
+360,T361,Brain Surgery,4.0,51.0
+361,T362,Dental Filling,22.0,51.0
+362,T363,Laser Eye Correction,6.0,96.0
+363,T364,C-Section procedure,220.0,92.0
+364,T365,Dental Filling,11.0,92.0
+365,T366,Normal Delivery,53.0,83.0
+366,T367,Laser Eye Correction,19.0,80.0
+367,T368,Angioplasty,20.0,80.0
+368,T369,Chemo,20.0,79.0
+369,T370,Brain Surgery,14.0,90.0
+370,T371,Normal Delivery,10.0,58.0
+371,T372,Laser Eye Correction,10.0,88.0
+372,T373,Normal Delivery,15.0,63.0
+373,T374,Chemotherapy,14.0,65.0
+374,T375,Angioplasty,8.0,52.0
+375,T376,Normal Delivery,15.0,52.0
+376,T377,KIDNEY TRANSPLANT,15.0,85.0
+377,T378,fracture repair,16.0,54.0
+378,T379,Dental Filling,23.0,61.0
+379,T380,Laser Eye Correction,23.0,97.0
+380,T381,Spine Fusion,23.0,63.0
+381,T382,Chemo,26.0,62.0
+382,T383,BrainSurg,22.0,54.0
+383,T384,Spine Fusion,11.0,94.0
+384,T385,CHEMO,15.0,53.0
+385,T386,Lasik,8.0,58.0
+386,T387,Kidney Transplant,27.0,70.0
+387,T388,Chemo,222.0,75.0
+388,T389,Brain Surgery,20.0,85.0
+389,T390,BrainSurg,4.0,85.0
+390,T391,Kidney Transplant,6.0,79.0
+391,T392,Laser Eye Correction,6.0,50.0
+392,T393,Kydney Transplant,21.0,53.0
+393,T394,CHEMO,8.0,72.0
+394,T395,angioplasty,13.0,82.0
+395,T396,C-Section,168.0,82.0
+396,T397,Kidney Transplant,24.0,94.0
+397,T398,Lasik,20.0,80.0
+398,T399,Angioplasty,9.0,86.0
+399,T400,Kidney Transplant,8.0,50.0
+400,T401,Dental Filling,104.0,75.0
+401,T402,angioplasty,17.0,65.0
+402,T403,BrainSurg,126.0,94.0
+403,T404,Chemo procedure,8.0,65.0
+404,T405,Kydney Transplant,3.0,85.0
+405,T406,Kydney Transplant,16.0,77.0
+406,T407,Laser Eye Correction,21.0,76.0
+407,T408,Lasik,66.0,82.0
+408,T409,BRAINSURG,13.0,90.0
+409,T410,Angioplasty,14.0,55.0
+410,T411,Lasik,14.0,89.0
+411,T412,Spine Fusion,87.0,82.0
+412,T413,BrainSurg,24.0,93.0
+413,T414,Angioplasty,42.0,91.0
+414,T415,angioplasty,196.0,56.0
+415,T416,ANGIOPLASTY,2.0,75.0
+416,T417,Laser Eye Correction procedure,130.0,74.0
+417,T418,Kydney Transplant,130.0,63.0
+418,T419,Normal Delivery,196.0,71.0
+419,T420,fracture repair,220.0,64.0
+420,T421,Chemotherapy,5.0,89.0
+421,T422,Brain Surgery,161.0,87.0
+422,T423,Laser Eye Correction,9.0,96.0
+423,T424,Angioplasty,17.0,85.0
+424,T425,Kydney Transplant,18.0,79.0
+425,T426,angioplasty,6.0,74.0
+426,T427,CHEMOTHERAPY,17.0,69.0
+427,T428,Chemotherapy procedure,17.0,61.0
+428,T429,BrainSurg,8.0,61.0
+429,T430,Angioplasty,12.0,61.0
+430,T431,fracture repair,22.0,53.0
+431,T432,angioplasty procedure,7.0,95.0
+432,T433,Chemo,27.0,83.0
+433,T434,Brain Surgery,25.0,81.0
+434,T435,C-SECTION,19.0,94.0
+435,T436,Kydney Transplant,6.0,62.0
+436,T437,Dental Filling,16.0,84.0
+437,T438,BrainSurg,4.0,69.0
+438,T439,BrainSurg,13.0,69.0
+439,T440,Laser Eye Correction,29.0,61.0
+440,T441,Chemotherapy,154.0,57.0
+441,T442,Brain Surgery,195.0,88.0
+442,T443,fracture repair procedure,2.0,67.0
+443,T444,Spine Fusion,23.0,72.0
+444,T445,angioplasty,3.0,89.0
+445,T446,Kidney Transplant,210.0,89.0
+446,T447,Kidney Transplant,4.0,80.0
+447,T448,angioplasty,22.0,63.0
+448,T449,Chemotherapy,25.0,67.0
+449,T450,C-Section,4.0,76.0
+450,T451,BrainSurg,20.0,76.0
+451,T452,Lasik,26.0,75.0
+452,T453,Laser Eye Correction,25.0,62.0
+453,T454,C-Section,14.0,62.0
+454,T455,Kidney  Transplant,110.0,51.0
+455,T456,Kidney Transplant,24.0,74.0
+456,T457,fracture repair,5.0,53.0
+457,T458,Chemotherapy,16.0,64.0
+458,T459,BrainSurg,29.0,64.0
+459,T460,angioplasty,167.0,64.0
+460,T461,Normal Delivery,7.0,83.0
+461,T462,fracture repair,10.0,77.0
+462,T463,Fracture Repair,10.0,77.0
+463,T464,Kydney Transplant,2.0,96.0
+464,T465,Lasik,29.0,90.0
+465,T466,angioplasty,4.0,64.0
+466,T467,SPINE FUSION,21.0,87.0
+467,T468,NORMAL DELIVERY,17.0,87.0
+468,T469,Fracture Repair,23.0,87.0
+469,T470,LASER EYE CORRECTION,90.0,57.0
+470,T471,BrainSurg,6.0,57.0
+471,T472,Laser Eye Correction,6.0,55.0
+472,T473,KYDNEY TRANSPLANT,210.0,98.0
+473,T474,KIDNEY TRANSPLANT,11.0,71.0
+474,T475,fracture repair,9.0,85.0
+475,T476,Spine Fusion,90.0,74.0
+476,T477,NORMAL DELIVERY,10.0,94.0
+477,T478,Normal Delivery,133.0,78.0
+478,T479,Chemo procedure,18.0,71.0
+479,T480,Chemo,13.0,66.0
+480,T481,Kidney Transplant,21.0,66.0
+481,T482,Kydney Transplant,21.0,83.0
+482,T483,Chemotherapy,142.0,73.0
+483,T484,BrainSurg,12.0,77.0
+484,T485,Fracture Repair,22.0,97.0
+485,T486,Laser Eye Correction,12.0,55.0
+486,T487,Brain Surgery,8.0,84.0
+487,T488,Dental Filling,24.0,50.0
+488,T489,fracture repair,29.0,96.0
+489,T490,Angioplasty,23.0,53.0
+490,T491,Chemo,3.0,53.0
+491,T492,Brain Surgery,8.0,86.0
+492,T493,Lasik,24.0,86.0
+493,T494,fracture repair,22.0,70.0
+494,T495,Brain Surgery,13.0,82.0
+495,T496,Laser Eye Correction,15.0,66.0
+496,T497,Chemotherapy,11.0,86.0
+497,T498,Angioplasty,23.0,52.0
+498,T499,angioplasty procedure,91.0,89.0
+499,T500,Kidney Transplant,96.0,56.0
+500,T501,Dental Filling,111.0,59.0
+501,T502,Kydney Transplant,3.0,65.0
+502,T503,fracture repair,27.0,88.0
+503,T504,Kydney Transplant,267.0,74.0
+504,T505,BRAINSURG,267.0,58.0
+505,T506,Laser Eye Correction,4.0,70.0
+506,T507,Chemo,174.0,73.0
+507,T508,Fracture  Repair,11.0,73.0
+508,T509,fracture repair procedure,2.0,89.0
+509,T510,fracture repair,20.0,81.0
+510,T511,Lasik,20.0,90.0
+511,T512,C-Section,23.0,52.0
+512,T513,Dental Filling,22.0,62.0
+513,T514,Chemotherapy,6.0,62.0
+514,T515,Dental Filling,21.0,97.0
+515,T516,Spine Fusion,173.0,54.0
+516,T517,Lasik,2.0,79.0
+517,T518,Normal Delivery,9.0,51.0
+518,T519,Dental Filling,16.0,78.0
+519,T520,Fracture Repair,17.0,57.0
+520,T521,fracture repair,2.0,96.0
+521,T522,BrainSurg,5.0,94.0
+522,T523,FRACTURE REPAIR,12.0,79.0
+523,T524,C-Section,17.0,77.0
+524,T525,Lasik,138.0,61.0
+525,T526,Laser Eye Correction procedure,26.0,66.0
+526,T527,BrainSurg,101.0,96.0
+527,T528,Normal Delivery,24.0,66.0
+528,T529,Chemo,18.0,91.0
+529,T530,Fracture Repair,189.0,58.0
+530,T531,KYDNEY TRANSPLANT,12.0,53.0
+531,T532,Fracture Repair,287.0,71.0
+532,T533,ANGIOPLASTY,18.0,96.0
+533,T534,C-Section,207.0,75.0
+534,T535,Normal Delivery,26.0,92.0
+535,T536,Dental Filling,230.0,92.0
+536,T537,Fracture Repair,19.0,52.0
+537,T538,BrainSurg,9.0,94.0
+538,T539,Spine Fusion,16.0,87.0
+539,T540,Lasik,6.0,73.0
+540,T541,Brain Surgery,142.0,94.0
+541,T542,Normal Delivery,24.0,61.0
+542,T543,Kydney  Transplant,3.0,94.0
+543,T544,angioplasty,229.0,51.0
+544,T545,Normal Delivery,9.0,69.0
+545,T546,angioplasty,28.0,75.0
+546,T547,Chemotherapy,10.0,56.0
+547,T548,BrainSurg,10.0,52.0
+548,T549,Kydney Transplant,28.0,98.0
+549,T550,angioplasty,91.0,62.0
+550,T551,BRAIN SURGERY,16.0,87.0
+551,T552,fracture repair,6.0,71.0
+552,T553,Dental Filling,6.0,68.0
+553,T554,Brain  Surgery,84.0,56.0
+554,T555,Spine Fusion,14.0,68.0
+555,T556,fracture repair,149.0,56.0
+556,T557,Brain Surgery,6.0,88.0
+557,T558,ANGIOPLASTY,22.0,74.0
+558,T559,BrainSurg,198.0,86.0
+559,T560,Chemo,266.0,75.0
+560,T561,DENTAL FILLING,20.0,86.0
+561,T562,Dental  Filling,5.0,60.0
+562,T563,C-Section,268.0,72.0
+563,T564,CHEMO,268.0,72.0
+564,T565,BRAIN SURGERY,23.0,50.0
+565,T566,Chemotherapy,203.0,95.0
+566,T567,Brain Surgery,5.0,95.0
+567,T568,Lasik,5.0,82.0
+568,T569,Chemo,20.0,82.0
+569,T570,BrainSurg,134.0,60.0
+570,T571,fracture repair,29.0,88.0
+571,T572,Dental Filling,29.0,91.0
+572,T573,Kidney Transplant,5.0,96.0
+573,T574,Dental Filling,5.0,67.0
+574,T575,Kidney Transplant procedure,291.0,73.0
+575,T576,Normal Delivery procedure,68.0,95.0
+576,T577,Lasik,29.0,89.0
+577,T578,Lasik,12.0,75.0
+578,T579,Laser Eye Correction,24.0,94.0
+579,T580,angioplasty,4.0,57.0
+580,T581,Kydney Transplant,23.0,67.0
+581,T582,Chemotherapy,6.0,60.0
+582,T583,CHEMO,23.0,87.0
+583,T584,Chemotherapy,3.0,57.0
+584,T585,Normal Delivery,21.0,70.0
+585,T586,Laser Eye Correction,6.0,96.0
+586,T587,Dental Filling,11.0,51.0
+587,T588,Chemo,203.0,64.0
+588,T589,Fracture Repair,203.0,78.0
+589,T590,Dental Filling,234.0,95.0
+590,T591,Fracture Repair,5.0,86.0
+591,T592,Angioplasty,12.0,68.0
+592,T593,Normal Delivery,90.0,75.0
+593,T594,LASER EYE CORRECTION,90.0,74.0
+594,T595,Kidney Transplant,90.0,68.0
+595,T596,fracture repair,3.0,93.0
+596,T597,BrainSurg,3.0,56.0
+597,T598,angioplasty,15.0,68.0
+598,T599,Fracture Repair procedure,7.0,77.0
+599,T600,Angioplasty,6.0,61.0

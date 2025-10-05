@@ -1,0 +1,150 @@
+patient_id,name,age,gender,admission_date,discharge_date,department,doctor_id,treatment_id,cost,outcome
+1,Noor abbasi,57,Female,2025-01-18,2025-01-21,gynecology,13,4,132117.0,Recovered
+3,Usman noor,79,Male,2024-06-22,2024-07-07,neurology,1,8,130703.0,Recovered
+8,Hassan ali,52,Male,2025-01-13,2025-02-05,gynecology,14,15,69550.0,Deceased
+9,Ahmed hussain,72,Male,2024-02-12,2024-02-22,neurology,6,13,141508.0,Deceased
+19,Dr. zainab noor,79,Female,2025-02-05,2025-02-20,neurology,13,2,18401.0,Under treatment
+24,Ali hussain,89,Female,2024-03-18,2024-03-22,cardiology,15,16,58483.0,Recovered
+31,Mr. iqbal javed,21,Male,2025-02-25,2025-03-01,neurology,7,17,135436.0,Recovered
+34,Hassan qureshi,66,Female,2024-03-21,2024-03-29,gynecology,13,18,136152.0,Recovered
+44,Hassan malik,80,Female,2024-06-07,2024-07-06,neurology,5,2,96884.0,Died
+45,Sana ali,24,Female,2024-06-27,2024-07-26,gynecology,2,1,109086.0,Recovered
+46,Dr. omar ali,73,Male,2024-11-16,2024-12-08,gynecology,2,18,106008.0,Recovered
+47,Omar malik,28,Female,2024-07-24,2024-08-02,pediatrics,1,4,118671.0,Recovered
+51,Mr. sara shah,31,Female,2025-03-06,2025-03-25,pediatrics,3,8,40857.0,Deceased
+52,Dr. omar hussain,62,Male,2024-11-22,2024-12-04,neurology,3,4,82849.0,Deceased
+53,Bilal qureshi,23,Female,2024-11-24,2024-12-21,pediatrics,5,17,35985.0,Recovered
+58,Dr. sara raza,78,Male,2024-03-08,2024-03-30,orthopedics,10,6,84407.0,Recovered
+59,Ms. zainab khan,68,Male,2025-02-14,2025-02-20,entrology,12,2,64436.0,Recovered
+69,Mr. zainab abbasi,150,Female,2024-06-21,2024-06-24,neurology,2,1,10480.0,Unknown
+82,Sara javed,24,Male,2024-09-27,2024-10-05,gynecology,1,19,70241.0,Unknown
+83,Omar javed,59,Other,2024-07-03,2024-07-28,neurology,7,10,16934.0,Recovered
+84,Hassan sheikh,83,Male,2025-02-22,2025-02-25,gynecology,5,7,110948.0,Died
+85,Bilal ali,63,Female,2024-07-04,2024-07-15,gynecology,15,6,16368.0,Unknown
+92,Noor noor,38,Male,2024-09-04,2024-10-04,orthopedics,5,8,42790.0,Under treatment
+96,Fatima javed,38,Male,2024-02-10,2024-03-07,cardiology,14,8,120236.0,Recovered
+98,Omar qureshi,19,Male,2024-01-16,2024-02-13,gynecology,1,10,89692.0,Under treatment
+99,Ayesha abbasi,65,Female,2024-12-13,2025-01-07,neurology,1,10,149487.0,Recovered
+103,Dr.  sara  abbasi,81,Male,2024-03-10,2024-03-18,neurology,13,1,109276.0,Unknown
+109,Bilal ali,61,Other,2024-09-20,2024-09-29,orthopedics,13,11,44453.0,Recovered
+113,Mr. noor malik,38,Male,2024-10-04,2024-10-30,gynecology,7,17,95030.0,Recovered
+115,Mr. sara abbasi,82,Male,2024-12-09,2024-12-13,neurology,15,1,32037.0,Unknown
+116,Mr. ayesha qureshi,70,Male,2024-10-20,2024-11-07,cardiology,10,12,29062.0,Unknown
+120,Ali khan,46,Female,2024-04-09,2024-04-20,entrology,6,5,135227.0,Under treatment
+123,Mr. sara qureshi,47,Other,2025-04-16,2025-04-25,neurology,7,2,60456.0,Deceased
+127,Ayesha sheikh,71,Female,2024-10-24,2024-11-15,entrology,6,18,130256.0,Under treatment
+132,Dr. fatima mirza,70,Female,2024-12-23,2025-01-08,gynecology,5,9,65060.0,Recovered
+140,Mr. fatima khan,35,Female,2024-12-16,2025-01-15,neurology,2,5,147673.0,Unknown
+146,Mr. sadia mirza,30,Male,2024-07-17,2024-08-07,cardiology,5,3,89296.0,Recovered
+152,Mr. usman javed,33,Male,2024-09-06,2024-10-03,neurology,14,20,86529.0,Recovered
+154,Ms.  usman  javed,62,Female,2024-06-17,2024-06-27,pediatrics,5,2,132324.0,Died
+156,Mr. sara ali,48,Female,2024-11-04,2024-11-24,gynecology,11,10,110024.0,Unknown
+158,Hassan qureshi,59,Male,2025-02-17,2025-03-14,gynecology,9,14,102821.0,Deceased
+163,Mr. ahmed ali,23,Female,2024-01-31,2024-02-22,orthopedics,15,20,133689.0,Unknown
+164,Dr. ahmed bhatti,84,Female,2024-01-31,2024-02-22,neurology,2,13,123578.0,Deceased
+168,Dr. noor mirza,54,Male,2024-09-24,2024-09-20,orthopedics,8,8,79584.0,Recovered
+177,Fatima hussain,64,Female,2024-04-08,2024-04-07,gynecology,7,16,130426.0,Deceased
+186,Ayesha khan,23,Male,2024-05-26,2024-05-24,pediatrics,8,3,50724.0,Deceased
+188,Ali javed,25,Other,2024-06-08,2024-06-17,neurology,6,7,31414.0,Deceased
+192,Sara shah,26,Other,2024-09-26,2024-10-03,entrology,3,10,68481.0,Recovered
+199,Usman bhatti,58,Male,2024-04-27,2024-05-10,orthopedics,3,14,110401.0,Recovered
+209,Ali khan,40,Female,2024-05-04,2024-05-02,gynecology,15,2,121217.0,Recovered
+215,Sara  ali,31,Male,2024-03-16,2024-04-13,cardiology,7,9,75145.0,Under treatment
+217,Dr. omar raza,79,Other,2024-12-24,2025-01-21,gynecology,5,8,63927.0,Under treatment
+222,Fatima sheikh,85,Female,2024-09-29,2024-10-07,cardiology,7,6,26197.0,Recovered
+223,Fatima qureshi,45,Female,2024-03-22,2024-04-01,orthopedics,15,20,24152.0,Deceased
+225,Mr. bilal javed,88,Female,2024-06-04,2024-06-11,neurology,5,2,75138.0,Recovered
+239,Omar raza,64,Male,2024-09-20,2024-09-30,orthopedics,13,3,139617.0,Unknown
+241,Iqbal noor,50,Male,2024-04-03,2024-04-01,gynecology,13,7,74344.0,Under treatment
+246,Omar qureshi,27,Male,2024-08-07,2024-08-11,neurology,8,19,98454.0,Under treatment
+247,Dr. sara javed,35,Female,2024-09-21,2024-10-07,cardiology,2,20,49845.0,Unknown
+259,Bilal shah,55,Other,2024-06-30,2024-07-04,pediatrics,10,2,20209.0,Recovered
+260,Dr. noor raza,26,Male,2025-05-14,2025-05-26,neurology,4,4,26715.0,Under treatment
+266,Ahmed sheikh,36,Female,2024-04-22,2024-05-07,pediatrics,8,6,14952.0,Deceased
+270,Sadia noor,68,Male,2024-01-10,2024-01-12,neurology,4,15,143678.0,Deceased
+272,Noor qureshi,71,Female,2025-01-19,2025-01-26,neurology,8,2,18693.0,Under treatment
+274,Ms. bilal shah,75,Male,2024-11-12,2024-12-04,gynecology,15,11,114684.0,Under treatment
+277,Mr. sara noor,50,Male,2024-12-17,2025-01-05,pediatrics,4,3,58571.0,Recovered
+279,Fatima mirza,32,Female,2025-04-12,2025-04-29,entrology,14,9,90147.0,Unknown
+285,Dr. iqbal javed,53,Male,2025-05-05,2025-05-08,gynecology,14,2,53584.0,Deceased
+289,Ms. hassan sheikh,82,Male,2024-12-22,2025-01-10,gynecology,10,11,56797.0,Recovered
+299,Zainab qureshi,36,Other,2024-04-28,2024-05-17,cardiology,10,17,99766.0,Unknown
+310,Sana malik,37,Other,2024-09-29,2024-10-01,gynecology,2,16,114107.0,Deceased
+315,Ayesha qureshi,24,Other,2024-05-21,2024-06-02,orthopedics,7,3,96131.0,Unknown
+322,Mr.  ali  javed,45,Male,2024-02-06,2024-02-20,cardiology,14,17,60609.0,Died
+323,Sana malik,89,Other,2025-03-29,2025-04-12,pediatrics,5,12,44782.0,Under treatment
+327,Noor qureshi,37,Female,2025-04-18,2025-05-05,cardiology,11,4,69299.0,Died
+337,Zainab khan,43,Female,2025-03-01,2025-03-06,gynecology,3,18,87867.0,Under treatment
+338,Noor khan,90,Female,2024-12-05,2024-12-10,cardiology,15,17,38478.0,Unknown
+344,Ms. omar malik,80,Female,2024-10-17,2024-11-01,orthopedics,14,12,142207.0,Unknown
+350,Noor khan,46,Female,2024-07-02,2024-08-01,gynecology,4,16,94752.0,Died
+368,Fatima raza,78,Male,2024-09-18,2024-10-04,cardiology,9,4,138100.0,Recovered
+369,Mr. fatima khan,63,Female,2024-01-30,2024-02-20,orthopedics,13,1,99651.0,Recovered
+370,Dr. iqbal khan,74,Female,2024-04-03,2024-04-15,orthopedics,11,4,37732.0,Under treatment
+372,Ms. bilal malik,34,Female,2025-03-23,2025-04-22,cardiology,2,16,54464.0,Recovered
+373,Ms.  ayesha  noor,41,Female,2025-03-27,2025-04-25,orthopedics,13,17,10416.0,Died
+374,Ayesha sheikh,63,Female,2024-07-01,2024-07-22,neurology,2,14,43232.0,Under treatment
+375,Dr. omar shah,87,Female,2024-11-02,2024-11-28,gynecology,8,18,10765.0,Recovered
+376,Ms. zainab sheikh,18,Other,2025-03-23,2025-03-18,cardiology,2,7,67446.0,Died
+379,Sana noor,85,Other,2024-02-13,2024-03-07,pediatrics,5,10,70261.0,Died
+381,Ali sheikh,73,Other,2024-12-22,2025-01-21,neurology,9,11,59507.0,Unknown
+385,Hassan shah,90,Female,2024-07-12,2024-07-19,neurology,4,16,33223.0,Under treatment
+388,Dr. ali qureshi,34,Other,2024-11-25,2024-12-20,neurology,9,12,58893.0,Deceased
+395,Fatima raza,72,Female,2024-04-08,2024-05-08,orthopedics,9,7,20722.0,Unknown
+399,Iqbal mirza,90,Female,2024-04-16,2024-04-28,orthopedics,3,9,123291.0,Deceased
+401,Ms. bilal bhatti,68,Female,2024-03-16,2024-03-14,entrology,15,4,147497.0,Under treatment
+407,Usman khan,21,Male,2024-04-17,2024-04-20,neurology,2,10,117101.0,Deceased
+409,Sana qureshi,36,Female,2024-03-05,2024-03-11,cardiology,11,20,117101.0,Recovered
+412,Mr. fatima qureshi,27,Female,2024-01-21,2024-01-23,gynecology,10,18,59096.0,Recovered
+417,Mr. fatima hussain,39,Other,2024-04-26,2024-05-07,neurology,1,10,102249.0,Recovered
+421,Ahmed qureshi,33,Male,2024-12-26,2025-01-02,neurology,5,19,73008.0,Recovered
+423,Ali bhatti,50,Female,2025-05-15,2025-06-08,orthopedics,5,6,77884.0,Recovered
+428,Ahmed abbasi,50,Male,2025-04-02,2025-04-20,entrology,6,2,130982.0,Recovered
+434,Hassan malik,57,Male,2024-10-17,2024-11-01,pediatrics,1,3,51698.0,Recovered
+435,Mr. noor bhatti,46,Male,2024-01-21,2024-01-24,neurology,13,6,137219.0,Recovered
+439,Ms. ahmed abbasi,55,Male,2024-05-17,2024-06-01,orthopedics,13,8,94184.0,Unknown
+441,Hassan abbasi,61,Other,2024-04-26,2024-05-16,neurology,8,6,60422.0,Under treatment
+442,Ali malik,29,Male,2024-10-23,2024-10-30,entrology,15,3,142768.0,Deceased
+443,Omar mirza,84,Male,2024-06-21,2024-07-02,gynecology,1,2,66242.0,Deceased
+444,Ahmed noor,54,Male,2025-04-10,2025-04-15,neurology,12,6,66242.0,Recovered
+446,Ms. sadia qureshi,85,Female,2024-11-19,2024-12-13,entrology,13,9,32351.0,Deceased
+450,Ms. usman khan,64,Female,2024-08-25,2024-09-03,cardiology,1,16,123500.0,Recovered
+455,Omar abbasi,30,Other,2024-07-20,2024-07-22,cardiology,8,7,147032.0,Recovered
+457,Zainab khan,84,Female,2024-05-01,2024-05-21,pediatrics,3,11,33446.0,Under treatment
+463,Ayesha sheikh,66,Male,2024-11-10,2024-12-06,gynecology,4,11,95167.0,Died
+464,Ms. sara bhatti,38,Male,2024-01-26,2024-02-16,gynecology,13,20,70450.0,Recovered
+469,Ms. hassan shah,64,Female,2024-02-16,2024-03-13,cardiology,11,17,70450.0,Recovered
+472,Dr. sara khan,51,Male,2024-07-21,2024-08-15,orthopedics,10,16,48825.0,Recovered
+477,Usman javed,33,Female,2024-01-17,2024-01-30,orthopedics,9,4,86456.0,Under treatment
+481,Dr. zainab khan,36,Female,2024-09-06,2024-10-01,gynecology,10,5,12606.0,Unknown
+482,Dr. sara raza,49,Female,2024-02-11,2024-03-03,orthopedics,4,4,31766.0,Under treatment
+492,Hassan noor,47,Other,2024-02-25,2024-03-02,cardiology,2,1,44894.0,Died
+495,Ms. ahmed mirza,52,Male,2024-04-27,2024-05-06,pediatrics,6,4,52406.0,Under treatment
+496,Hassan shah,78,Male,2024-07-26,2024-08-20,pediatrics,3,10,141056.0,Recovered
+504,Mr. noor mirza,82,Female,2024-01-29,2024-02-16,neurology,13,9,16503.0,Recovered
+509,Mr.  bilal  mirza,62,Other,2025-01-29,2025-02-01,gynecology,14,6,88810.0,Unknown
+510,Noor javed,80,Other,2024-02-03,2024-02-28,gynecology,15,6,56059.0,Recovered
+518,Mr. hassan ali,90,Male,2024-03-17,2024-04-11,neurology,9,9,106670.0,Recovered
+519,Iqbal  bhatti,48,Male,2024-10-28,2024-11-21,cardiology,5,7,106670.0,Unknown
+520,Dr. ayesha abbasi,78,Female,2025-01-12,2025-01-22,gynecology,7,4,42215.0,Recovered
+522,Sara malik,51,Other,2025-02-02,2025-02-09,orthopedics,15,12,53694.0,Recovered
+525,Ahmed  javed,25,Female,2024-06-06,2024-06-16,gynecology,9,13,147939.0,Recovered
+530,Sadia javed,40,Female,2024-05-25,2024-06-13,gynecology,7,6,144433.0,Recovered
+536,Mr. usman ali,10,Other,2024-08-25,2024-09-05,entrology,8,9,113116.0,Recovered
+543,Mr. hassan khan,41,Male,2024-06-21,2024-06-18,gynecology,9,6,67792.0,Unknown
+544,Mr. zainab mirza,50,Male,2025-02-24,2025-03-09,neurology,15,20,10032.0,Recovered
+547,Bilal mirza,54,Male,2025-04-24,2025-05-19,orthopedics,7,5,119255.0,Recovered
+554,Bilal qureshi,61,Other,2024-10-01,2024-10-19,cardiology,15,15,23481.0,Unknown
+561,Ayesha khan,49,Male,2024-01-20,2024-01-23,neurology,6,18,121249.0,Recovered
+571,Mr. ahmed javed,88,Female,2024-03-19,2024-04-17,gynecology,2,5,14365.0,Recovered
+572,Usman khan,22,Male,2024-09-17,2024-10-03,neurology,15,16,25050.0,Recovered
+574,Ms. ali raza,66,Other,2024-05-27,2024-06-07,entrology,1,1,30387.0,Under treatment
+580,Ayesha malik,65,Female,2024-09-29,2024-10-16,gynecology,6,4,87360.0,Unknown
+585,Zainab raza,150,Male,2025-03-16,2025-03-31,gynecology,5,11,104251.0,Unknown
+586,Usman mirza,74,Female,2024-11-24,2024-12-18,gynecology,8,20,104251.0,Died
+587,Usman khan,40,Female,2024-09-11,2024-09-29,cardiology,15,1,94866.0,Deceased
+590,Mr.  ahmed  ali,68,Male,2024-01-08,2024-01-26,orthopedics,9,13,137895.0,Died
+591,Ali hussain,83,Male,2025-03-04,2025-03-28,orthopedics,10,5,128915.0,Died
+592,Ms. zainab bhatti,72,Female,2025-02-28,2025-03-03,neurology,6,12,148373.0,Died
+598,Fatima raza,72,Male,2024-07-10,2024-08-01,pediatrics,8,17,25879.0,Recovered
+599,Fatima shah,40,Male,2025-01-11,2025-02-04,gynecology,3,20,21329.0,Recovered
