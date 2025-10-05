@@ -1,7 +1,4 @@
 streamlit
 pandas
-numpy
-seaborn
 altair
-streamlit-option-menu
-openpyxl
+streamlit-option-menu==0.3.6
