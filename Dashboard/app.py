@@ -1,9 +1,6 @@
 # Importing modules
 import pandas as pd
-import numpy as np
-import matplotlib.pyplot as plt
 import streamlit as st
-import seaborn as sns
 import os
 from streamlit_option_menu import option_menu
 import altair as alt
