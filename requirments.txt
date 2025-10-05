@@ -3,6 +3,6 @@ pandas
 numpy
 matplotlib
 seaborn
-streamlit-option-menu
 altair
+streamlit-option-menu
 openpyxl
