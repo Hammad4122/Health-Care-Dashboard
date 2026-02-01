@@ -17,7 +17,7 @@ def run_app():
     # -------------------------------
     #      Main Dashboard Title
     # -------------------------------
-    st.title("🏥 Health Dashboard")
+    st.title("🏥 Healthcare Dashboard")
     # Add some padding at the top using CSS
     st.markdown('<style>div.block-container{padding-top:50px;}</style>', unsafe_allow_html=True)
 
